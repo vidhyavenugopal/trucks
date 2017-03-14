@@ -40,8 +40,6 @@
                 <configuration>
                         <url>http://localhost:8050/manager/text</url>
                         <server>mytomcat</server>
-                        <username>admin</username>
-                        <password>admin</password>
                         <path>/cacheImplement</path>
                         
                 </configuration>
